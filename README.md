@@ -6,7 +6,7 @@
 Características generales del Marco Geoestadístico Nacional:
 
 1. Cubre la totalidad de la superficie del país
-2. Identifica las áreas urbanasy rurales.
+2. Identifica las áreas urbanas y rurales.
 3. Facilita diferentes niveles de desagregación geográfica.
 4. Está  constituido  por  la  codificación  de  la  división  político-administrativa  de  Colombia Divipola. 
 5. Los  niveles  de  desagregación  geográfica  tienen  un  código  de  identificación  único,  el cualpermite la asociación con los datos de censales.
@@ -15,7 +15,7 @@ Características generales del Marco Geoestadístico Nacional:
 
 _Capas en formato GeoJson con polígonos que representan las entidades territoriales de Colombia._
 
-### Unidades de objervación para entidades territoriales | Polígonos
+### Unidades de observación para entidades territoriales | Polígonos en formato .geojson
 
 _1. Departamentos_
 _2. Municipios_
